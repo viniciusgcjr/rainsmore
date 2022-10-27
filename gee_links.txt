@@ -1,0 +1,10 @@
+https://code.earthengine.google.com/1628e88268370dbcdf1a7a6a64ff9f40
+https://code.earthengine.google.com/7a4e99ec355e166d2df5ce83643602c8
+https://code.earthengine.google.com/810d7fc3d761dbcd57f3aab6f88d935d
+
+https://viniciusjr-teste.users.earthengine.app/view/ndvi-modis-vs-landsat---pe
+
+https://developers.google.com/earth-engine/guides/python_install-colab#existing-notebook
+
+https://developers.google.com/earth-engine/guides/python_install
+
